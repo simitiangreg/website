@@ -1,2 +1,2 @@
 # website
-website for greg
+Making a simple website for self
