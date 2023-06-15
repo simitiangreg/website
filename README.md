@@ -1,2 +1,2 @@
 # website
-Making a simple website for self
+Work in progress. making a simple website for self
